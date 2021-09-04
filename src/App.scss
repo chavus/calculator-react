@@ -1,0 +1,64 @@
+// ### Neutral
+
+// - Very dark cyan: hsl(183, 100%, 15%)
+// - Dark grayish cyan: hsl(186, 14%, 43%)
+// - Dark grayish cyan: hsl(184, 14%, 56%)
+// - Light grayish cyan: hsl(185, 41%, 84%)
+// - Light grayish cyan: hsl(189, 41%, 97%)
+// - White: hsl(0, 0%, 100%)
+
+// @import url('https://fonts.googleapis.com/css2?family=Space+Mono:wght@400;700&display=swap');
+
+
+.fluid-container {
+  background-color: hsl(185, 41%, 84%);
+  font-family: 'Space Mono', monospace;
+}
+
+.inner-container{
+  border-radius: 10px;
+}
+
+.results-column{
+  background-color: hsl(183, 100%, 15%);
+  border-radius: 10px;
+}
+
+// .App {
+//   text-align: center;
+// }
+
+// .App-logo {
+//   height: 40vmin;
+//   pointer-events: none;
+// }
+
+// @media (prefers-reduced-motion: no-preference) {
+//   .App-logo {
+//     animation: App-logo-spin infinite 20s linear;
+//   }
+// }
+
+// .App-header {
+//   background-color: #282c34;
+//   min-height: 100vh;
+//   display: flex;
+//   flex-direction: column;
+//   align-items: center;
+//   justify-content: center;
+//   font-size: calc(10px + 2vmin);
+//   color: white;
+// }
+
+// .App-link {
+//   color: #61dafb;
+// }
+
+// @keyframes App-logo-spin {
+//   from {
+//     transform: rotate(0deg);
+//   }
+//   to {
+//     transform: rotate(360deg);
+//   }
+// }
